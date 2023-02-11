@@ -1,7 +1,9 @@
 h1{
     color:black;
     position: relative;
-    border: 1px solid teal;
+    border: 10px solid teal;
+    padding: 28px;
+    text-align: center;
 }
 /*Esto es un comentario de prueba */
 .responsive {
@@ -9,4 +11,12 @@ h1{
         width: 100%;
         height: auto;
         border: 1px solid teal;
+}
+fieldset{
+    background-color: rgb(247, 236, 217);
+    color:teal
+}
+
+body{
+    background-color: wheat
 }

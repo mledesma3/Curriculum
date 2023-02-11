@@ -67,8 +67,37 @@ body{
 }
 .texto_perfil h2 span{
     font-size: 0.8em;
+    font-weight: 300;
 }
-font-weight: 300;
+.Info_contacto{
+    padding-top: 40px; 
+}
+.Title{
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+.Info_contacto ul{
+    position: relative;
+}
+.Info_contacto ul li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.Info_contacto ul li .icon{
+    display: inline-block;
+    width: 30px;
+    font-size: 10px;
+    color: #03a9f4;
+}
+.Info_contacto ul li span{
+    color: #fff;
+    font-weight: 300;
+}
 h1{
     color:black;
     position: relative;

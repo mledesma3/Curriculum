@@ -1,0 +1,12 @@
+h1{
+    color:black;
+    position: relative;
+    border: 1px solid teal;
+}
+/*Esto es un comentario de prueba */
+.responsive {
+        border-radius: 50%;
+        width: 100%;
+        height: auto;
+        border: 1px solid teal;
+}

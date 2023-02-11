@@ -67,8 +67,8 @@ body{
 }
 .texto_perfil h2 span{
     font-size: 0.8em;
-    font-weight: 300;
 }
+font-weight: 300;
 h1{
     color:black;
     position: relative;
